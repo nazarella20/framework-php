@@ -1,0 +1,4 @@
+Installer bootstrap dans le layout
+  - installer jquery
+  -installer bootstrap js
+pour plus tard création des liens dans la navbar
